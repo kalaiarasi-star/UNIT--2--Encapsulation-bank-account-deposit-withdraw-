@@ -1,0 +1,1 @@
+This project demonstrates the concept of encapsulation in Java by implementing a Bank Account system. It allows users to securely perform deposit and withdrawal operations while maintaining data privacy using private variables and public methods.
